@@ -1,0 +1,74 @@
+h1 {
+    color: aquamarine;
+    background-color: chartreuse;
+    border-style: groove;
+}
+
+h2 {
+    background-color: red;
+    color: cornflowerblue;
+}
+
+.th1 {
+    background-color: aqua;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+.td1 {
+    border-style: double;   
+    border-color: rgba(0, 21, 253, 0.566);
+    background-color: aquamarine;
+    font-style: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.td2 {
+    border-style: double;   
+    border-color: rgba(34, 255, 0, 0.984);
+    background-color: rgb(255, 0, 0);
+    font-style: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.td3 {
+    border-style: double;   
+    border-color: rgba(255, 208, 0, 0.566);
+    background-color: rgb(64, 0, 255);
+    font-style: inherit;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+#div1 {
+    color: rgb(49, 72, 131);
+    background-color: rgb(10, 159, 223);
+    border-style: double;
+}
+
+#div2 {
+    color: rgb(9, 236, 20);
+    background-color: rgb(0, 34, 255);
+    border-style: double;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, sans-serif;
+    border-color: rgb(0, 208, 255);
+}
+
+#h2 {
+    border-color: rgb(68, 255, 0);
+    border-style: double;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#div3 {
+    border-style: dashed;
+    border-color: aquamarine;
+    background-color: white;
+    color: blue;
+    background-color: tomato;
+}
